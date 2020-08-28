@@ -1,5 +1,8 @@
 # SecondsConverter
 ### Конвертируйте свои секунды в года, месяцы, недели, дни, часы, минуты, секунды!
+
+<a href="https://vk.com/vladislavkovalskyi"><img src="https://img.shields.io/static/v1?label=MY&message=VKONTAKTE&color=yellow" alt="service-test status"></a>
+
 ```python
 import secondsconverter
 
